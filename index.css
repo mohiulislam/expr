@@ -1,0 +1,12 @@
+button{
+    background: rgb(10, 27, 49);
+    color: aliceblue;
+    border-radius: 8px;
+    height: 50px;
+    width: 80px;
+    border: none;
+}
+button:hover{
+    background: rgb(5, 91, 131);
+    transition: all .5s;
+}
